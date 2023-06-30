@@ -1,5 +1,5 @@
 # Memo Cube
-A Memory game. Do you want to play? Then download the executable file here. 👉 [![Download link](https://img.shields.io/badge/-Memo--Cube-purple?logo=html5&logoColor=white
+A Memory game. Do you want to play? Then download the built game here. 👉 [![Download link](https://img.shields.io/badge/-Memo--Cube-purple?logo=html5&logoColor=white
 )](https://github.com/HansiUdapola/MemoCube/tree/main/BuildFiles)
 
 ### Description
